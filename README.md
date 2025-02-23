@@ -69,7 +69,7 @@ mkdir -p Application/Jobs Domain/Interfaces Infrastructure/Services Worker/Quart
 }
 ```
 
-## Step-by-Step: Coding
+## Coding:
 
 1. **Setup Worker.cs** to initialize and start the **Quartz Scheduler**.
 

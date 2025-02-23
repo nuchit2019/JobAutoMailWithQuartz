@@ -99,6 +99,12 @@ The worker service can be hosted in various environments such as **Windows Servi
 4. Push to the branch (`git push origin feature/my-feature`)
 5. Create a new **Pull Request**
 
-## License
-This project is licensed under the **MIT License**.
+## Contact
+
+For questions or support, please contact:  
+**Nuchit Atjanawat**  
+**Email**: nuchit@outlook.com  
+**GitHub**: [nuchit2019](https://github.com/nuchit2019)
+
+--- 
 

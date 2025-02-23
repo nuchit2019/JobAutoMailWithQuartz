@@ -33,7 +33,7 @@ The `Janawat.EmailService` is a .NET 8 application utilizing **Quartz.NET** for 
 - **Cron Scheduling**
 - **Microsoft.Extensions.Logging**
 
-## Step-by-Step: Create Project
+## Create Project:
 
 1. **Create Worker Service**
 ```sh

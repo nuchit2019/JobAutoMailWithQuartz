@@ -1,8 +1,6 @@
 # JobAutoMailWithQuartz
 Scheduling Background Jobs Automail With Quartz.NET
-#
-# Janawat.EmailService
-
+# 
 ## Project Summary
 The `Janawat.EmailService` is a .NET 8 application utilizing **Quartz.NET** for job scheduling to automate email sending tasks. The application runs as a **Background Service** in a **Worker Service** project, leveraging **Dependency Injection (DI)** and **Hosted Services**. It primarily focuses on scheduling and sending automated emails using **MailKit** via SMTP.
 
